@@ -1,0 +1,24 @@
+***** input
+kmin =        2     kmax =      102
+jmin =        2     jmax =      102
+imin =        2     imax =      102
+kp   =    10816     jp   =      104
+  
+  
+***** array bounds
+i_lb =      21842    i_ub =    1103022    x_size =    1124874
+  
+  
+***** results
+i =          0      b[i] = 0.000000e+00
+i =     220604      b[i] = 2.628129e+12
+i =     441208      b[i] = 1.051220e+13
+i =     661812      b[i] = 2.365220e+13
+i =     882416      b[i] = 4.204815e+13
+i =    1103020      b[i] = 6.570005e+13
+ 
+Wall time = 519.054906 seconds.
+ 
+CPU  time = 506.634435 seconds.
+ 
+

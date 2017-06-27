@@ -1,0 +1,5 @@
+DC8B7C2A 26611200 ../adpcm/data/large.pcm
+DC8B7C2A 26611200 ../adpcm/data/large.pcm
+DC8B7C2A 26611200 ../adpcm/data/large.pcm
+DC8B7C2A 26611200 ../adpcm/data/large.pcm
+DC8B7C2A 26611200 ../adpcm/data/large.pcm

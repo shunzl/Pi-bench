@@ -1,0 +1,26 @@
+
+Sequoia Benchmark Version 0.9.0
+
+***** input  
+kmin =        2     kmax =       52 
+jmin =        2     jmax =       52 
+imin =        2     imax =       52 
+kp   =     2916     jp   =       54 
+ 
+ 
+***** array bounds  
+i_lb =       5942    i_ub =     151522    x_size =     157474 
+ 
+ 
+***** results 
+i =          0      b[i] = 0.000000e+00 
+i =      30304      b[i] = 4.961217e+10 
+i =      60608      b[i] = 1.984033e+11 
+i =      90912      b[i] = 4.463743e+11 
+i =     121216      b[i] = 7.935253e+11 
+i =     151520      b[i] = 1.239856e+12 
+
+Wall time = 47.606118 seconds. 
+
+CPU  time = 46.746310 seconds. 
+

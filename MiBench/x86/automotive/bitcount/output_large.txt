@@ -1,0 +1,240 @@
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.059 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.015 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.056 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.013 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.014 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.129 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.059 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.015 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.056 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.013 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.014 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.129 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.054 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.015 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.056 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.013 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.014 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.130 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.054 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.015 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.056 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.013 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.014 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.129 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.054 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.015 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.056 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.013 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.014 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.129 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.056 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.016 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.058 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.014 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.015 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.133 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.055 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.016 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.057 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.014 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.014 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.131 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.063 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.015 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.058 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.013 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.015 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.132 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.054 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.016 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.057 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.015 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.014 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.133 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.061 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.016 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.058 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.014 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.012 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.015 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.133 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.055 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.016 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.058 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.014 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.014 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.132 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.055 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.016 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.058 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.014 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.015 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.132 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.055 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.016 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.057 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.013 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.014 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.132 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.061 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.016 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.057 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.014 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.014 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.131 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.058 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.015 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.056 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.013 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.014 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.129 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.061 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.016 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.057 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.014 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.015 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.132 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.054 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.015 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.056 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.013 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.014 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.129 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.065 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.015 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.057 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.015 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.014 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.132 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.055 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.016 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.057 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.014 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.015 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.133 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits
+Bit counter algorithm benchmark
+
+Optimized 1 bit/loop counter          > Time:   0.056 sec.; Bits: 13244091
+Ratko's mystery algorithm             > Time:   0.015 sec.; Bits: 17124702
+Recursive bit count by nybbles        > Time:   0.059 sec.; Bits: 16116903
+Non-recursive bit count by nybbles    > Time:   0.014 sec.; Bits: 17914291
+Non-recursive bit count by bytes (BW) > Time:   0.011 sec.; Bits: 17445438
+Non-recursive bit count by bytes (AR) > Time:   0.014 sec.; Bits: 15989143
+Shift and count bits                  > Time:   0.147 sec.; Bits: 15020251
+
+Best  > Non-recursive bit count by bytes (BW)
+Worst > Shift and count bits

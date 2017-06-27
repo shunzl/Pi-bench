@@ -1,0 +1,2 @@
+#!/bin/sh
+qemu-arm small input_small.dat > small.txt

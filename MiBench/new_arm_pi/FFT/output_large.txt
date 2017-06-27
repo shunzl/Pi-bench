@@ -1,0 +1,15 @@
+Usage: fft <waves> <length> -i
+-i performs an inverse fft
+make <waves> random sinusoids<length> is the number of samples
+Usage: fft <waves> <length> -i
+-i performs an inverse fft
+make <waves> random sinusoids<length> is the number of samples
+Usage: fft <waves> <length> -i
+-i performs an inverse fft
+make <waves> random sinusoids<length> is the number of samples
+Usage: fft <waves> <length> -i
+-i performs an inverse fft
+make <waves> random sinusoids<length> is the number of samples
+Usage: fft <waves> <length> -i
+-i performs an inverse fft
+make <waves> random sinusoids<length> is the number of samples

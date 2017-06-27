@@ -1,0 +1,130 @@
+
+Sequoia Benchmark Version 1.0
+
+***** input  
+kmin =        2     kmax =       27 
+jmin =        2     jmax =       27 
+imin =        2     imax =       27 
+kp   =      841     jp   =       29 
+ 
+ 
+***** array bounds  
+i_lb =       1742    i_ub =      22647    x_size =      24399 
+ 
+ 
+***** results 
+i =          0      b[i] = 0.000000e+00 
+i =       4529      b[i] = 1.111094e+09 
+i =       9058      b[i] = 4.437192e+09 
+i =      13587      b[i] = 9.978568e+09 
+i =      18116      b[i] = 1.773522e+10 
+i =      22645      b[i] = 2.770716e+10 
+
+Wall time = 5.968282 seconds. 
+
+CPU  time = 5.963525 seconds. 
+
+
+Sequoia Benchmark Version 1.0
+
+***** input  
+kmin =        2     kmax =       27 
+jmin =        2     jmax =       27 
+imin =        2     imax =       27 
+kp   =      841     jp   =       29 
+ 
+ 
+***** array bounds  
+i_lb =       1742    i_ub =      22647    x_size =      24399 
+ 
+ 
+***** results 
+i =          0      b[i] = 0.000000e+00 
+i =       4529      b[i] = 1.111094e+09 
+i =       9058      b[i] = 4.437192e+09 
+i =      13587      b[i] = 9.978568e+09 
+i =      18116      b[i] = 1.773522e+10 
+i =      22645      b[i] = 2.770716e+10 
+
+Wall time = 5.994622 seconds. 
+
+CPU  time = 5.990122 seconds. 
+
+
+Sequoia Benchmark Version 1.0
+
+***** input  
+kmin =        2     kmax =       27 
+jmin =        2     jmax =       27 
+imin =        2     imax =       27 
+kp   =      841     jp   =       29 
+ 
+ 
+***** array bounds  
+i_lb =       1742    i_ub =      22647    x_size =      24399 
+ 
+ 
+***** results 
+i =          0      b[i] = 0.000000e+00 
+i =       4529      b[i] = 1.111094e+09 
+i =       9058      b[i] = 4.437192e+09 
+i =      13587      b[i] = 9.978568e+09 
+i =      18116      b[i] = 1.773522e+10 
+i =      22645      b[i] = 2.770716e+10 
+
+Wall time = 5.836521 seconds. 
+
+CPU  time = 5.831875 seconds. 
+
+
+Sequoia Benchmark Version 1.0
+
+***** input  
+kmin =        2     kmax =       27 
+jmin =        2     jmax =       27 
+imin =        2     imax =       27 
+kp   =      841     jp   =       29 
+ 
+ 
+***** array bounds  
+i_lb =       1742    i_ub =      22647    x_size =      24399 
+ 
+ 
+***** results 
+i =          0      b[i] = 0.000000e+00 
+i =       4529      b[i] = 1.111094e+09 
+i =       9058      b[i] = 4.437192e+09 
+i =      13587      b[i] = 9.978568e+09 
+i =      18116      b[i] = 1.773522e+10 
+i =      22645      b[i] = 2.770716e+10 
+
+Wall time = 5.926766 seconds. 
+
+CPU  time = 5.922165 seconds. 
+
+
+Sequoia Benchmark Version 1.0
+
+***** input  
+kmin =        2     kmax =       27 
+jmin =        2     jmax =       27 
+imin =        2     imax =       27 
+kp   =      841     jp   =       29 
+ 
+ 
+***** array bounds  
+i_lb =       1742    i_ub =      22647    x_size =      24399 
+ 
+ 
+***** results 
+i =          0      b[i] = 0.000000e+00 
+i =       4529      b[i] = 1.111094e+09 
+i =       9058      b[i] = 4.437192e+09 
+i =      13587      b[i] = 9.978568e+09 
+i =      18116      b[i] = 1.773522e+10 
+i =      22645      b[i] = 2.770716e+10 
+
+Wall time = 5.859451 seconds. 
+
+CPU  time = 5.854846 seconds. 
+
